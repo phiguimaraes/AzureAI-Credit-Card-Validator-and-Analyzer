@@ -1,0 +1,7 @@
+azure.core
+azure-ai-documentintelligence
+streamlit
+azure-storage-blob
+python-dotenv
+
+#Use pip install -r requirements.txtS
